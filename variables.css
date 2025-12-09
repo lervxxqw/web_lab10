@@ -1,0 +1,13 @@
+:root {
+    --blue: #0066cc;
+    --blues: #62c1ea;
+    --red: #cc0000;
+    --yellow: #ffcc00;
+    --green: #00cc66;
+    --grey: #999999;
+    --brown: #996633;
+
+    --gap: 3px;
+    --border-light: 1px solid #ffffff;
+    --border-dark: 1px solid #cccccc;
+}
